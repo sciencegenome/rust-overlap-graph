@@ -4,7 +4,7 @@
  - Build a BTreeMap, for the overlap graph, 
  - Make a unique kmer has offset table.
  - search for the offset of the matched suffixes.
- - general note: Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
+ - please see the last commit message and if it says compiled binary then it is completed or else still in development version.
  
 
 
